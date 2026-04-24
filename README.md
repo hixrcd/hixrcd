@@ -1,6 +1,8 @@
-# 🧠 AuroraMind — XR & AI Creative Developer
+# 🧠 AuroraMind — XR & AI Systems Builder
 
 Building state-driven systems where human emotion, interaction, and intelligence meet immersive technology.
+
+From internal state → to interactive reality.
 
 ---
 
