@@ -1,16 +1,34 @@
-## Hi there 👋
+# 🧠 AuroraMind — XR & AI Creative Developer
 
-<!--
-**hixrcd/hixrcd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building state-driven systems where human emotion, interaction, and intelligence meet immersive technology.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Current Focus
+- XR Development (Unity / Unreal)
+- State-based systems (Idle / Calm / Fire)
+- Interactive feedback loops (input → state → response)
+- AGI-XR exploration
+
+---
+
+## 🔹 Projects
+- AuroraNode — State-driven XR systems
+- Orb Core — Responsive visual + emotional feedback
+- StateShift — Ethical XR feedback prototype
+
+---
+
+## 🔹 Philosophy
+System before speed.  
+Small steps. Real understanding.
+
+---
+
+## 🔹 In Progress
+Developing interactive systems that translate internal states into visual and sensory feedback.
+
+---
+
+## 🔹 Contact
+Open to collaboration in XR / AI / Creative Tech
